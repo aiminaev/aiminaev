@@ -10,7 +10,7 @@
 
 ### Вот, что я умею
 
-- Python. [задачи](https://github.com/aiminaev/learning_python), [дипломный проект](https://github.com/aiminaev/vkinder), [Codewars](https://www.codewars.com/users/aiminaev)
+- Python. [задачи](https://github.com/aiminaev/learning_python), [дипломный проект](https://github.com/aiminaev/vkinder)
 - PostgreSQL [задачи](https://github.com/aiminaev/postgreSQL_learning)
 - Django REST [проект](https://github.com/aiminaev/django_projects)
 - Django, Docker [приложение](https://github.com/aiminaev/test_django_books)
