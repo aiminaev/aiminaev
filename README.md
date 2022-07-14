@@ -15,7 +15,7 @@
 - Django, Docker [приложение](https://github.com/aiminaev/test_django_books)
 - HTML CSS [дипломная работа](https://github.com/aiminaev/HTML_diplom)
 
-<br/>
+<br/>  
 
 [![codewars](https://www.codewars.com/users/aiminaev/badges/large)](https://www.codewars.com/users/aiminaev)
 
