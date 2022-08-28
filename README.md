@@ -14,7 +14,7 @@
 - Django REST [проект по изучению DRF](https://github.com/aiminaev/django_projects)
 - Django, Docker [сервис админки библиотеки](https://github.com/aiminaev/test_django_books), [сервис прохождения опросов](https://github.com/aiminaev/project_polls/tree/master/kokoc)
 - HTML CSS [дипломная работа](https://github.com/aiminaev/HTML_diplom)
--Telegram, Pandas,Docker [Бот аналитик](https://github.com/aiminaev/analit_bot)
+- Telegram, Pandas,Docker [Бот аналитик](https://github.com/aiminaev/analit_bot)
 
 <br/>  
 
